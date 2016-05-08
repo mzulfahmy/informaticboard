@@ -19,10 +19,14 @@ You will need :
 * MySQL/MariaDB as a database
 
 Instruction
+
+
 1.  Upload all files to webserver.
+
 2.  Import informatic.sql to database
+
 3.  Edit /includes/config.php
-4.  
+
 
 ## System Changelog
 ```sh
