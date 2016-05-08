@@ -60,8 +60,9 @@ User management
 ### Contact
 
 Just hit my email me[at]zulfahmy.net
-Made with love in Pahang, Malaysia.
 
-**Project opensourced**
+_Made with love in Pahang, Malaysia._
+
+
 
 
