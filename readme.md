@@ -2,6 +2,10 @@
 
 IBS (Informatic Board System) is a opensource PHP project for online/offline board system management. Suitable use for university/college/school for making any announcement.
 
+### Screenshot
+
+https://zulfahmy.net/files/ibs/
+
 ### Important files
 
     - dashboard.php //main admin panel
